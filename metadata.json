@@ -1,0 +1,6 @@
+{
+  "name": "Wolcrest Schools",
+  "description": "Wolcrest Schools Premium Portal: featuring admissions, comprehensive academic syllabus, student report card portal, WAEC Crest AI Tutor, and administration panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
